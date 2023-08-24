@@ -1,100 +1,98 @@
-{
-  "pc": [
-    {
-      "id": 1,
-      "userId": 1,
-      "src": "/images/hyperpc-original-dual-green.jpg",
-      "title": "Hyperpc Original Dual Green"
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "src": "/images/hyperpc-ampere-mini.jpg",
-      "title": "Hyperpc Ampere Mini"
-    },
-    {
-      "id": 3,
-      "userId": 1,
-      "src": "/images/hyperpc-pro-dual-alt.jpg",
-      "title": "Hyperpc Pro Dual"
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "src": "/images/hyperpc-teaser-configurator.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 5,
-      "userId": 1,
-      "src": "/images/hyperpc-play-laptop-17-upd.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 6,
-      "userId": 1,
-      "src": "/images/hyperpc-lumen-ultra-silver-green-table-size-catergory.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 7,
-      "userId": 1,
-      "src": "/images/hyperpc-cyber-standard-black-green-alt-1.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 8,
-      "userId": 1,
-      "src": "/images/hyperpc-dynamic-evo-white-edition.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 9,
-      "userId": 1,
-      "src": "/images/hyperpc-capsula-stock-alt.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 10,
-      "userId": 1,
-      "src": "/images/hpc-genesis-black.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 11,
-      "userId": 1,
-      "src": "/images/hyperpc-gaming-a-white-450x450.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 12,
-      "userId": 1,
-      "src": "/images/hyperpc-lumen-plus-black-green-table-450x450.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 13,
-      "userId": 1,
-      "src": "/images/hyperpc-gaming-c-wh-450x450.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 14,
-      "userId": 1,
-      "src": "/images/hyperpc-gaming-a-450x450.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 15,
-      "userId": 1,
-      "src": "/images/hyperpc-pro-g4-450x450.jpg",
-      "title": "Hyperpc Taser Configuration"
-    },
-    {
-      "id": 16,
-      "userId": 1,
-      "src": "/images/hyperpc-lumen-plus-platinum-silver-upd-450x450.jpg",
-      "title": "Hyperpc Taser Configuration"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "src": "/images/hyperpc-original-dual-green.jpg",
+    "title": "Hyperpc Original Dual Green"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "src": "/images/hyperpc-ampere-mini.jpg",
+    "title": "Hyperpc Ampere Mini"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "src": "/images/hyperpc-pro-dual-alt.jpg",
+    "title": "Hyperpc Pro Dual"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "src": "/images/hyperpc-teaser-configurator.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "src": "/images/hyperpc-play-laptop-17-upd.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "src": "/images/hyperpc-lumen-ultra-silver-green-table-size-catergory.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "src": "/images/hyperpc-cyber-standard-black-green-alt-1.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "src": "/images/hyperpc-dynamic-evo-white-edition.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "src": "/images/hyperpc-capsula-stock-alt.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 10,
+    "userId": 1,
+    "src": "/images/hpc-genesis-black.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 11,
+    "userId": 1,
+    "src": "/images/hyperpc-gaming-a-white-450x450.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 12,
+    "userId": 1,
+    "src": "/images/hyperpc-lumen-plus-black-green-table-450x450.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 13,
+    "userId": 1,
+    "src": "/images/hyperpc-gaming-c-wh-450x450.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 14,
+    "userId": 1,
+    "src": "/images/hyperpc-gaming-a-450x450.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 15,
+    "userId": 1,
+    "src": "/images/hyperpc-pro-g4-450x450.jpg",
+    "title": "Hyperpc Taser Configuration"
+  },
+  {
+    "id": 16,
+    "userId": 1,
+    "src": "/images/hyperpc-lumen-plus-platinum-silver-upd-450x450.jpg",
+    "title": "Hyperpc Taser Configuration"
+  }
+]
