@@ -1,4 +1,5 @@
-[
+{
+  "pc": [
     {
       "id": 1,
       "userId": 1,
@@ -95,4 +96,5 @@
       "src": "/images/hyperpc-lumen-plus-platinum-silver-upd-450x450.jpg",
       "title": "Hyperpc Taser Configuration"
     }
-]
+  ]
+}
